@@ -1,0 +1,1055 @@
+SN,NAME,LINK
+,,
+1,ARRAY,
+,,
+1,K-Concatenation,https://www.codechef.com/JAN18/problems/KCON/
+,,
+2,Maximum Contiguous Circular Subarray Sum,https://www.geeksforgeeks.org/maximum-contiguous-circular-sum/
+,,
+3,Find Subarray With Given Sum,https://www.geeksforgeeks.org/find-subarray-with-given-sum/
+,,
+4,Equilibrium Index Of An Array,https://www.geeksforgeeks.org/equilibrium-index-of-an-array/
+,,
+5,Maximum Sum Increasing Subsequence,https://www.geeksforgeeks.org/dynamic-programming-set-14-maximum-sum-increasing-subsequence/
+,,
+6,Convert Array Into Zig Zag Fashion,https://www.geeksforgeeks.org/convert-array-into-zig-zag-fashion/
+,,
+7,Find A Pair With The Given Difference,https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/
+,,
+8,Chocolate Distribution Problem,https://www.geeksforgeeks.org/chocolate-distribution-problem/
+,,
+9,Minimum Number of Platforms Required for a Railway/Bus Station,https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
+,,
+10,Trapping Rain Water,https://www.geeksforgeeks.org/trapping-rain-water/
+,,
+11,Stock Buy Sell to Maximize Profit,https://www.geeksforgeeks.org/stock-buy-sell/
+,,
+12,Inplace Rotate Square Matrix By 90 Degrees,https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
+,,
+13,Find k Pairs With Smallest Sums In Two Arrays,https://www.geeksforgeeks.org/find-k-pairs-smallest-sums-two-arrays/
+,,
+14,Search An Element In A Sorted And Rotated Array,https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+,,
+15,"Given A Sorted And Rotated Array, Find If There Is A Pair With A Given Sum",https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/
+,,
+16,Maximum Sum i*arr[i] Among All Rotations Of A Given Array,https://www.geeksforgeeks.org/maximum-sum-iarri-among-rotations-given-array/
+,,
+17,Rearrange Positive And Negative Numbers In O(n) Time And O(1) Extra Space,https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/
+,,
+18,Three Way Partitioning Of An Array Around A Given Range,https://www.geeksforgeeks.org/three-way-partitioning-of-an-array-around-a-given-range/
+,,
+19,Maximum Length Bitonic Subarray,https://www.geeksforgeeks.org/maximum-length-bitonic-subarray/
+,,
+20,Largest Subarray With Equal Number Of 0S And 1S,https://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/
+,,
+21,Maximum Product Subarray,https://www.geeksforgeeks.org/maximum-product-subarray/
+,,
+22,Counting Inversions In An Array,https://www.geeksforgeeks.org/counting-inversions/
+,,
+23,Segregate 0s and 1s In An Array,https://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/
+,,
+24,"Sort An Array Of 0S, 1S And 2S",https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
+,,
+25,Merging Intervals,https://www.geeksforgeeks.org/merging-intervals/
+,,
+26,Maximum Profit By Buying And Selling A Share At Most Twice,https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/
+,,
+27,Maximum Profit By Buying And Selling A Share At Most K Times,https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-k-times/
+,,
+28,Maximum Difference Between Two Elements,https://www.geeksforgeeks.org/maximum-difference-between-two-elements/
+,,
+29,Minimize The Maximum Difference Between The Heights,https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/
+,,
+30,Move All Zeroes To End Of Array,https://www.geeksforgeeks.org/move-zeroes-end-array/
+,,
+31,Minimum Swaps Required To Bring  All Elements Less Than Or Equal To k Together,https://www.geeksforgeeks.org/minimum-swaps-required-bring-elements-less-equal-k-together/
+,,
+32,Largest Sum Subarray With At-Least k Numbers,https://www.geeksforgeeks.org/largest-sum-subarray-least-k-numbers/
+,,
+33,Form Minimum Number From Given Sequence,https://www.geeksforgeeks.org/form-minimum-number-from-given-sequence/
+,,
+34,Find The Smallest Positive Integer Value That Cannot Be Represented As Sum Of Any Subset Of A Given Array,https://www.geeksforgeeks.org/find-smallest-value-represented-sum-subset-given-array/
+,,
+35,Generate All Possible Sorted Arrays From Alternate Elements Of Two Given Sorted Arrays,https://www.geeksforgeeks.org/generate-all-possible-sorted-arrays-from-alternate-elements-of-two-given-arrays/
+,,
+36,Next Permutation,https://leetcode.com/problems/next-permutation/description/
+,,
+37,"Given An Array Arr[], Find The Maximum J- I Such That Arr[j] > Arr[i]",https://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/
+,,
+38,Maximum Sum of 3 Non-Overlapping Subarrays,https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/
+,,
+39,Number Of Subarrays With Maximum Values In Given Range,https://www.geeksforgeeks.org/number-subarrays-maximum-value-given-range/
+,,
+40,Print All Possible Combinations Of R Elements In A Given Array Of Size N,https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/
+,,
+41,Longest Subarray Sum Divisible K,https://www.geeksforgeeks.org/longest-subarray-sum-divisible-k/
+,,
+42,Find Minimum Number Of Merge Operations To Make An Array Palindrome,https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/
+,,
+43,Reorder An Array According To Given Indexes,https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/
+,,
+44,Maximum Score,https://www.codechef.com/JAN18/problems/MAXSC/
+,,
+45,Rearrange An Array In Maximum Minimum Form | Set 2 (O(1) Extra Space),https://www.geeksforgeeks.org/rearrange-array-maximum-minimum-form-set-2-o1-extra-space/
+,,
+46,Arrange Given Numbers To Form The Biggest Number,https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/
+,,
+47,Space Optimization Using Bit Manipulations,https://www.geeksforgeeks.org/space-optimization-using-bit-manipulations/
+,,
+48,MO’s Algorithm (Query Square Root Decomposition),https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/
+,,
+49,Amazon Interview Question for Software Engineer / Developers,https://careercup.com/question?id=5339357867147264
+,,
+2,SEARCHING & SORTING,
+,,
+50,Majority Element,https://www.geeksforgeeks.org/majority-element/
+,,
+51,Searching Array Adjacent Differ K,https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/
+,,
+52,Find A Repeating And A Missing Number,https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
+,,
+53,Ceiling In A Sorted Array,https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/
+,,
+54,Find A Pair With The Given Difference,https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/
+,,
+55,Find Four Elements That Sum To A Given Value Set 2,https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/
+,,
+56,Median Of Two Sorted Arrays Of Different Sizes,https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
+,,
+57,Maximum Sum Such That No Two Elements Are Adjacent,https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/
+,,
+58,Find Common Elements Three Sorted Arrays,https://www.geeksforgeeks.org/find-common-elements-three-sorted-arrays/
+,,
+59,Count Triplets With Sum Smaller That A Given Value,https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/
+,,
+60,Merge Two Sorted Arrays O1 Extra Space,https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
+,,
+61,3 Way Quicksort Dutch National Flag,https://www.geeksforgeeks.org/3-way-quicksort-dutch-national-flag/
+,,
+62,Counting Sort,https://www.geeksforgeeks.org/counting-sort/
+,,
+63,Radix Sort,https://www.geeksforgeeks.org/radix-sort/
+,,
+64,How To Efficiently Sort A Big List Dates In 20S,https://www.geeksforgeeks.org/how-to-efficiently-sort-a-big-list-dates-in-20s/
+,,
+65,Median Of Stream Of Integers Running Integers,https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/
+,,
+66,Make Array Elements Equal Minimum Cost,https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/
+,,
+67,Check Reversing Sub Array Make Array Sorted,https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/
+,,
+68,Print All Subarrays With 0 Sum,https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
+,,
+69,Nearly Sorted Algorithm,https://www.geeksforgeeks.org/nearly-sorted-algorithm/
+,,
+70,A Product Array Puzzle,https://www.geeksforgeeks.org/a-product-array-puzzle/
+,,
+71,Find Number Pairs Xy Yx,https://www.geeksforgeeks.org/find-number-pairs-xy-yx/
+,,
+72,Find Duplicates In On Time And Constant Extra Space,https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/
+,,
+73,Insert In Sorted And Non Overlapping Interval Array,https://www.geeksforgeeks.org/insert-in-sorted-and-non-overlapping-interval-array/
+,,
+74,Sort Array According Count Set Bits,https://www.geeksforgeeks.org/sort-array-according-count-set-bits/
+,,
+75,Minimum Swaps To Make Two Array Identical,https://www.geeksforgeeks.org/minimum-swaps-to-make-two-array-identical/
+,,
+76,Find Largest Multiple 3 Array Digits Set 2 Time O1 Space,https://www.geeksforgeeks.org/find-largest-multiple-3-array-digits-set-2-time-o1-space/
+,,
+77,Permute Two Arrays Sum Every Pair Greater Equal K,https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/
+,,
+78,Find Pair With Greatest Product In Array,https://www.geeksforgeeks.org/find-pair-with-greatest-product-in-array/
+,,
+79,Minimum Number Swaps Required Sort Array,https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/
+,,
+3,STRING,
+,,
+80,Print Words Together Set Characters,https://www.geeksforgeeks.org/print-words-together-set-characters/
+,,
+81,Generate All Binary Strings From Given Pattern,https://www.geeksforgeeks.org/generate-all-binary-strings-from-given-pattern/
+,,
+82,Smallest Window Contains Characters String,https://www.geeksforgeeks.org/smallest-window-contains-characters-string/
+,,
+83,Count Ways Increase Lcs Length Two Strings One,https://www.geeksforgeeks.org/count-ways-increase-lcs-length-two-strings-one/
+,,
+84,Given A Sequence Of Words Print All Anagrams Together,https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/
+,,
+85,Anagram Substring Search Search Permutations,https://www.geeksforgeeks.org/anagram-substring-search-search-permutations/
+,,
+86,Check Two Strings K Anagrams Not,https://www.geeksforgeeks.org/check-two-strings-k-anagrams-not/
+,,
+87,Check Binary Representations Two Numbers Anagram,https://www.geeksforgeeks.org/check-binary-representations-two-numbers-anagram/
+,,
+88,Longest Palindromic Substring Set 2,https://www.geeksforgeeks.org/longest-palindromic-substring-set-2/
+,,
+89,Find The Smallest Window In A String Containing All Characters Of Another String,https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/
+,,
+90,Permutation and Palindrome,https://www.codechef.com/FEB18/problems/PERMPAL
+,,
+91,Make Largest Palindrome Changing K Digits,https://www.geeksforgeeks.org/make-largest-palindrome-changing-k-digits/
+,,
+92,Lexicographically First Palindromic String,https://www.geeksforgeeks.org/lexicographically-first-palindromic-string/
+,,
+93,Longest Non Palindromic Substring,https://www.geeksforgeeks.org/longest-non-palindromic-substring/
+,,
+94,String Merging,https://www.codechef.com/JAN18/problems/STRMRG
+,,
+95,Find Kth Character Of Decrypted String,https://www.geeksforgeeks.org/find-kth-character-of-decrypted-string/
+,,
+96,Count Words Whose Th Letter Either 1 Th Th I1 Th Letter Given Word,https://www.geeksforgeeks.org/count-words-whose-th-letter-either-1-th-th-i1-th-letter-given-word/
+,,
+97,Find Number Distinct Palindromic Sub Strings Given String,https://www.geeksforgeeks.org/find-number-distinct-palindromic-sub-strings-given-string/
+,,
+98,Print All Distinct Characters Of A String In Order 3 Methods,https://www.geeksforgeeks.org/print-all-distinct-characters-of-a-string-in-order-3-methods/
+,,
+99,Count Total Anagram Substrings,https://www.geeksforgeeks.org/count-total-anagram-substrings/
+,,
+100,Min Flips Of Continuous Characters To Make All Characters Same In A String,https://www.geeksforgeeks.org/min-flips-of-continuous-characters-to-make-all-characters-same-in-a-string/
+,,
+101,Count Binary Strings K Times Appearing Adjacent Two Set Bits,https://www.geeksforgeeks.org/count-binary-strings-k-times-appearing-adjacent-two-set-bits/
+,,
+102,Binary Representation Next Greater Number Number 1S 0S,https://www.geeksforgeeks.org/binary-representation-next-greater-number-number-1s-0s/
+,,
+103,Print Longest Common Sub Sequences Lexicographical Order,https://www.geeksforgeeks.org/print-longest-common-sub-sequences-lexicographical-order/
+,,
+104,Print Shortest Common Supersequence,https://www.geeksforgeeks.org/print-shortest-common-supersequence/
+,,
+105,Given Two Strings Find First String Subsequence Second,https://www.geeksforgeeks.org/given-two-strings-find-first-string-subsequence-second/
+,,
+106,Find Largest Word Dictionary Deleting Characters Given String,https://www.geeksforgeeks.org/find-largest-word-dictionary-deleting-characters-given-string/
+,,
+107,Search A Word In A 2D Grid Of Characters,https://www.geeksforgeeks.org/search-a-word-in-a-2d-grid-of-characters/
+,,
+108,Number Subsequences Form Ai Bj Ck,https://www.geeksforgeeks.org/number-subsequences-form-ai-bj-ck/
+,,
+109,Find Number Times String Occurs Given String,https://www.geeksforgeeks.org/find-number-times-string-occurs-given-string/
+,,
+110,Count Distinct Subsequences,https://www.geeksforgeeks.org/count-distinct-subsequences/
+,,
+111,Find Patterns 101 Given String,https://www.geeksforgeeks.org/find-patterns-101-given-string/
+,,
+112,Given A String Find Its First Non Repeating Character,https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
+,,
+113,Rearrange A String So That All Same Characters Become At Least D Distance Away,https://www.geeksforgeeks.org/rearrange-a-string-so-that-all-same-characters-become-at-least-d-distance-away/
+,,
+114,Recursively Remove Adjacent Duplicates Given String,https://www.geeksforgeeks.org/recursively-remove-adjacent-duplicates-given-string/
+,,
+115,Wildcard Character Matching,https://www.geeksforgeeks.org/wildcard-character-matching/
+,,
+116,Lexicographic Rank Of A String,https://www.geeksforgeeks.org/lexicographic-rank-of-a-string/
+,,
+117,Print Number Ascending Order Contains 1 2 3 Digits,https://www.geeksforgeeks.org/print-number-ascending-order-contains-1-2-3-digits/
+,,
+118,Given Sorted Dictionary Find Precedence Characters,https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/
+,,
+119,Find Excel Column Name Given Number,https://www.geeksforgeeks.org/find-excel-column-name-given-number/
+,,
+120,Find The Longest Substring With K Unique Characters In A Given String,https://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/
+,,
+121,Function To Find Number Of Customers Who Could Not Get A Computer,https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/
+,,
+122,Check Given Sentence Given Set Simple Grammer Rules,https://www.geeksforgeeks.org/check-given-sentence-given-set-simple-grammer-rules/
+,,
+123,Length Of The Longest Valid Substring,https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/
+,,
+124,Print Ways Break String Bracket Form,https://www.geeksforgeeks.org/print-ways-break-string-bracket-form/
+,,
+125,Print Concatenation Of Zig Zag String Form In N Rows,https://www.geeksforgeeks.org/print-concatenation-of-zig-zag-string-form-in-n-rows/
+,,
+126,Searching For Patterns Set 2 Kmp Algorithm,https://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/
+,,
+127,Transform One String To Another Using Minimum Number Of Given Operation,https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/
+,,
+128,Repeated Subsequence Length 2,https://www.geeksforgeeks.org/repeated-subsequence-length-2/
+,,
+129,Check If Two Given Strings Are Isomorphic To Each Other,https://www.geeksforgeeks.org/check-if-two-given-strings-are-isomorphic-to-each-other/
+,,
+130,Find Given String Can Represented Substring Iterating Substring N Times,https://www.geeksforgeeks.org/find-given-string-can-represented-substring-iterating-substring-n-times/
+,,
+131,Recursively Print All Sentences That Can Be Formed From List Of Word Lists,https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/
+,,
+132,Searching For Patterns Set 3 Rabin Karp Algorithm,https://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/
+,,
+133,Number of subsequences in a string divisible by n,https://www.geeksforgeeks.org/number-subsequences-string-divisible-n/
+,,
+4,MATRIX,
+,,
+134,Zigzag Or Diagonal Traversal Of Matrix,https://www.geeksforgeeks.org/zigzag-or-diagonal-traversal-of-matrix/
+,,
+135,Create A Matrix With Alternating Rectangles Of 0 And X,https://www.geeksforgeeks.org/create-a-matrix-with-alternating-rectangles-of-0-and-x/
+,,
+136,Print Elements Sorted Order Row Column Wise Sorted Matrix,https://www.geeksforgeeks.org/print-elements-sorted-order-row-column-wise-sorted-matrix/
+,,
+137,Inplace Rotate Square Matrix By 90 Degrees,https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
+,,
+138,Find Number Of Islands,https://www.geeksforgeeks.org/find-number-of-islands/
+,,
+139,Given Matrix O X Replace O X Surrounded X,https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/
+,,
+140,Validity Of A Given Tic Tac Toe Board Configuration/+,https://www.geeksforgeeks.org/validity-of-a-given-tic-tac-toe-board-configuration/+
+,,
+141,Given Matrix O X Find Largest Subsquare Surrounded X,https://www.geeksforgeeks.org/given-matrix-o-x-find-largest-subsquare-surrounded-x/
+,,
+142,Rotate Matrix Elements,https://www.geeksforgeeks.org/rotate-matrix-elements/
+,,
+143,Find Common Element Rows Row Wise Sorted Matrix,https://www.geeksforgeeks.org/find-common-element-rows-row-wise-sorted-matrix/
+,,
+144,Maximum Size Rectangle Binary Sub Matrix 1S,https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
+,,
+145,Common Elements In All Rows Of A Given Matrix,https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/
+,,
+146,Find A Specific Pair In Matrix,https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/
+,,
+147,Find Orientation Of A Pattern In A Matrix,https://www.geeksforgeeks.org/find-orientation-of-a-pattern-in-a-matrix/
+,,
+148,Shortest Path In A Binary Maze,https://www.geeksforgeeks.org/shortest-path-in-a-binary-maze/
+,,
+149,Inplace Rotate Square Matrix By 90 Degrees,https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
+,,
+150,Kth Smallest Element In A Row Wise And Column Wise Sorted 2D Array Set 1,https://www.geeksforgeeks.org/kth-smallest-element-in-a-row-wise-and-column-wise-sorted-2d-array-set-1/
+,,
+151,A Boolean Matrix Question,https://www.geeksforgeeks.org/a-boolean-matrix-question/
+,,
+152,Search A Word In A 2D Grid Of Characters,https://www.geeksforgeeks.org/search-a-word-in-a-2d-grid-of-characters/
+,,
+5,BACKTRACKING,
+,,
+153,Backtracking Set 1 The Knights Tour Problem,https://www.geeksforgeeks.org/backtracking-set-1-the-knights-tour-problem/
+,,
+154,Backttracking Set 2 Rat In A Maze,https://www.geeksforgeeks.org/backttracking-set-2-rat-in-a-maze/
+,,
+155,Backtracking Set 7 Suduku,https://www.geeksforgeeks.org/backtracking-set-7-suduku/
+,,
+156,Remove Invalid Parentheses,https://www.geeksforgeeks.org/remove-invalid-parentheses/
+,,
+157,Word Break Problem Using Backtracking,https://www.geeksforgeeks.org/word-break-problem-using-backtracking/
+,,
+158,Print Palindromic Partitions String,https://www.geeksforgeeks.org/print-palindromic-partitions-string/
+,,
+159,Find Shortest Safe Route In A Path With Landmines,https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/
+,,
+160,Combinational Sum,https://www.geeksforgeeks.org/combinational-sum/
+,,
+161,Partition Set K Subsets Equal Sum,https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/
+,,
+162,Longest Possible Route In A Matrix With Hurdles,https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/
+,,
+163,Backtracking Set 8 Solving Cryptarithmetic Puzzles,https://www.geeksforgeeks.org/backtracking-set-8-solving-cryptarithmetic-puzzles/
+,,
+164,Match A Pattern And String Without Using Regular Expressions,https://www.geeksforgeeks.org/match-a-pattern-and-string-without-using-regular-expressions/
+,,
+165,Find If There Is A Path Of More Than K Length From A Source,https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/
+,,
+166,Backtracking Set 7 Hamiltonian Cycle,https://www.geeksforgeeks.org/backtracking-set-7-hamiltonian-cycle/
+,,
+167,Tug Of War,https://www.geeksforgeeks.org/tug-of-war/
+,,
+168,Find Maximum Number Possible By Doing At Most K Swaps,https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/
+,,
+169,Find Paths From Corner Cell To Middle Cell In Maze,https://www.geeksforgeeks.org/find-paths-from-corner-cell-to-middle-cell-in-maze/
+,,
+170,Arithmetic Expressions,https://www.hackerrank.com/challenges/arithmetic-expressions/problem
+,,
+171,Crossword Puzzle,https://www.hackerrank.com/challenges/crossword-puzzle/problem
+,,
+6,GREEDY,
+,,
+172,Greedy Algorithms Set 1 Activity Selection Problem,https://www.geeksforgeeks.org/greedy-algorithms-set-1-activity-selection-problem/
+,,
+173,Job Sequencing Problem Set 1 Greedy Algorithm,https://www.geeksforgeeks.org/job-sequencing-problem-set-1-greedy-algorithm/
+,,
+174,Greedy Algorithm Egyptian Fraction,https://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/
+,,
+175,Fractional Knapsack Problem,https://www.geeksforgeeks.org/fractional-knapsack-problem/
+,,
+176,Greedy Algorithm To Find Minimum Number Of Coins,https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/
+,,
+177,Dynamic Programming Set 20 Maximum Length Chain Of Pairs,https://www.geeksforgeeks.org/dynamic-programming-set-20-maximum-length-chain-of-pairs/
+,,
+178,Find Minimum Time To Finish All Jobs With Given Constraints,https://www.geeksforgeeks.org/find-minimum-time-to-finish-all-jobs-with-given-constraints/
+,,
+179,Job Sequencing Using Disjoint Set Union,https://www.geeksforgeeks.org/job-sequencing-using-disjoint-set-union/
+,,
+180,Minimum Sum Two Numbers Formed Digits Array 2,https://www.geeksforgeeks.org/minimum-sum-two-numbers-formed-digits-array-2/
+,,
+181,Find Smallest Number With Given Number Of Digits And Digit Sum,https://www.geeksforgeeks.org/find-smallest-number-with-given-number-of-digits-and-digit-sum/
+,,
+182,Minimum Sum Absolute Difference Pairs Two Arrays,https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/
+,,
+183,Maximize Sum Consecutive Differences Circular Array,https://www.geeksforgeeks.org/maximize-sum-consecutive-differences-circular-array/
+,,
+184,Paper Cut Minimum Number Squares,https://www.geeksforgeeks.org/paper-cut-minimum-number-squares/
+,,
+185,Lexicographically Smallest Array K Consecutive Swaps,https://www.geeksforgeeks.org/lexicographically-smallest-array-k-consecutive-swaps/
+,,
+186,Rearrange Characters String No Two Adjacent,https://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/
+,,
+187,Find Maximum Height Pyramid From The Given Array Of Objects,https://www.geeksforgeeks.org/find-maximum-height-pyramid-from-the-given-array-of-objects/
+,,
+188,Minimum Cost For Acquiring All Coins With K Extra Coins Allowed With Every Coin,https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/
+,,
+189,Find Maximum Sum Possible Equal Sum Three Stacks,https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/
+,,
+190,Maximize Array Sun After K Negation Operations,https://www.geeksforgeeks.org/maximize-array-sun-after-k-negation-operations/
+,,
+191,Minimum Cost Cut Board Squares,https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/
+,,
+192,Minimize Cash Flow Among Given Set Friends Borrowed Money,
+,,
+193,Minimum Edges Reverse Make Path Source Destination,
+,,
+7,DYNAMIC PROGRAMMING,
+,,
+194,Ugly Numbers,
+,,
+195,Super Ugly Number Number Whose Prime Factors Given Set,
+,,
+196,Maximum Size Sub Matrix With All 1S In A Binary Matrix,https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/
+,,
+197,Dynamic Programming Subset Sum Problem,https://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem/
+,,
+198,Minimum Number Of Jumps To Reach End Of A Given Array,https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/
+,,
+199,Dynamic Programming Set 15 Longest Bitonic Subsequence,https://www.geeksforgeeks.org/dynamic-programming-set-15-longest-bitonic-subsequence/
+,,
+200,Maximum Sum Bi Tonic Sub Sequence,https://www.geeksforgeeks.org/maximum-sum-bi-tonic-sub-sequence/
+,,
+201,Lcs Longest Common Subsequence Three Strings,https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/
+,,
+202,Friends Pairing Problem,https://www.geeksforgeeks.org/friends-pairing-problem/
+,,
+203,Dynamic Programming Building Bridges,https://www.geeksforgeeks.org/dynamic-programming-building-bridges/
+,,
+204,Dynamic Programming Set 18 Partition Problem,https://www.geeksforgeeks.org/dynamic-programming-set-18-partition-problem/
+,,
+205,Count Number Of Ways To Partition A Set Into K Subsets,https://www.geeksforgeeks.org/count-number-of-ways-to-partition-a-set-into-k-subsets/
+,,
+206,Dynamic Programming Set 12 Longest Palindromic Subsequence,https://www.geeksforgeeks.org/dynamic-programming-set-12-longest-palindromic-subsequence/
+,,
+207,Dynamic Programming Set 11 Egg Dropping Puzzle,https://www.geeksforgeeks.org/dynamic-programming-set-11-egg-dropping-puzzle/
+,,
+208,Dynamic Programming Set 21 Box Stacking Problem,https://www.geeksforgeeks.org/dynamic-programming-set-21-box-stacking-problem/
+,,
+209,Dynamic Programming Set 24 Optimal Binary Search Tree,https://www.geeksforgeeks.org/dynamic-programming-set-24-optimal-binary-search-tree/
+,,
+210,Dynamic Programming Set 28 Minimum Insertions To Form A Palindrome,https://www.geeksforgeeks.org/dynamic-programming-set-28-minimum-insertions-to-form-a-palindrome/
+,,
+211,Dynamic Programming Set 36 Cut A Rope To Maximize Product,https://www.geeksforgeeks.org/dynamic-programming-set-36-cut-a-rope-to-maximize-product/
+,,
+212,Dynamic Programming Set 31 Optimal Strategy For A Game,https://www.geeksforgeeks.org/dynamic-programming-set-31-optimal-strategy-for-a-game/
+,,
+213,Dynamic Programming Set 32 Word Break Problem,https://www.geeksforgeeks.org/dynamic-programming-set-32-word-break-problem/
+,,
+214,Mobile Numeric Keypad Problem,https://www.geeksforgeeks.org/mobile-numeric-keypad-problem/
+,,
+215,Find Number Of Solutions Of A Linear Equation Of N Variables,https://www.geeksforgeeks.org/find-number-of-solutions-of-a-linear-equation-of-n-variables/
+,,
+216,Count Number Ways Tile Floor Size N X M Using 1 X M Size Tiles,https://www.geeksforgeeks.org/count-number-ways-tile-floor-size-n-x-m-using-1-x-m-size-tiles/
+,,
+217,Count Number Binary Strings Without Consecutive 1S,https://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/
+,,
+218,Painters Partition Problem,https://www.geeksforgeeks.org/painters-partition-problem/
+,,
+219,Check Whether A Given String Is An Interleaving Of Two Other Given Strings Set 2,https://www.geeksforgeeks.org/check-whether-a-given-string-is-an-interleaving-of-two-other-given-strings-set-2/
+,,
+220,Wildcard Pattern Matching,https://www.geeksforgeeks.org/wildcard-pattern-matching/
+,,
+221,Probability Knight Remain Chessboard,https://www.geeksforgeeks.org/probability-knight-remain-chessboard/
+,,
+222,Two Water Jug Puzzle,https://www.geeksforgeeks.org/two-water-jug-puzzle/
+,,
+223,Dynamic Programming Set 18 Word Wrap,https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/
+,,
+224,Largest Sum Subarray Least K Numbers,https://www.geeksforgeeks.org/largest-sum-subarray-least-k-numbers/
+,,
+225,Find Water In A Glass,https://www.geeksforgeeks.org/find-water-in-a-glass/
+,,
+226,Remove Minimum Elements Either Side 2Min Max,https://www.geeksforgeeks.org/remove-minimum-elements-either-side-2min-max/
+,,
+227,Number Subsequences Form Ai Bj Ck,https://www.geeksforgeeks.org/number-subsequences-form-ai-bj-ck/
+,,
+228,Unbounded Knapsack Repetition Items Allowed,https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/
+,,
+229,Length Of The Longest Valid Substring,https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/
+,,
+230,Dynamic Programming Set 37 Boolean Parenthesization Problem,https://www.geeksforgeeks.org/dynamic-programming-set-37-boolean-parenthesization-problem/
+,,
+231,Count Possible Decodings Given Digit Sequence,https://www.geeksforgeeks.org/count-possible-decodings-given-digit-sequence/
+,,
+232,Perfect Sum Problem Print Subsets Given Sum,https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/
+,,
+233,Vertex Cover Problem Set 2 Dynamic Programming Solution Tree,https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/
+,,
+234,Longest Even Length Substring Sum First Second Half,https://www.geeksforgeeks.org/longest-even-length-substring-sum-first-second-half/
+,,
+235,Count Possible Ways To Construct Buildings,https://www.geeksforgeeks.org/count-possible-ways-to-construct-buildings/
+,,
+236,Bitmasking And Dynamic Programming Set 1 Count Ways To Assign Unique Cap To Every Person,https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/
+,,
+237,Longest Repeating Subsequence,https://www.geeksforgeeks.org/longest-repeating-subsequence/
+,,
+238,Longest Common Increasing Subsequence Lcs Lis,https://www.geeksforgeeks.org/longest-common-increasing-subsequence-lcs-lis/
+,,
+239,Find If String Is K Palindrome Or Not,https://www.geeksforgeeks.org/find-if-string-is-k-palindrome-or-not/
+,,
+240,Minimum Sum Path 3 D Array,https://www.geeksforgeeks.org/minimum-sum-path-3-d-array/
+,,
+241,Count Distinct Subsequences,https://www.geeksforgeeks.org/count-distinct-subsequences/
+,,
+242,Shortest Uncommon Subsequence,https://www.geeksforgeeks.org/shortest-uncommon-subsequence/
+,,
+243,Temple Offerings,https://www.geeksforgeeks.org/temple-offerings/
+,,
+244,Highway Billboard Problem,https://www.geeksforgeeks.org/highway-billboard-problem/
+,,
+245,Maximum Sum Alternating Subsequence Sum,https://www.geeksforgeeks.org/maximum-sum-alternating-subsequence-sum/
+,,
+246,Minimum Maximum Values Expression,https://www.geeksforgeeks.org/minimum-maximum-values-expression/
+,,
+247,Minimum And Maximum Values Of An Expression With * And +,https://www.geeksforgeeks.org/minimum-maximum-values-expression/
+,,
+8,STACKS & QUEUES,
+,,
+248,Implement Two Stacks In An Array,https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/
+,,
+249,Design A Stack With Find Middle Operation,https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/
+,,
+250,Efficiently Implement K Stacks Single Array,https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/
+,,
+251,Implement Stack Using Priority Queue Or Heap,https://www.geeksforgeeks.org/implement-stack-using-priority-queue-or-heap/
+,,
+252,Stack Set 2 Infix To Postfix,https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
+,,
+253,The Celebrity Problem,https://www.geeksforgeeks.org/the-celebrity-problem/
+,,
+254,Iterative Tower Of Hanoi,https://www.geeksforgeeks.org/iterative-tower-of-hanoi/
+,,
+255,Design And Implement Special Stack Data Structure,https://www.geeksforgeeks.org/design-and-implement-special-stack-data-structure/
+,,
+256,Find The Maximum Of Minimums For Every Window Size In A Given Array,https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/
+,,
+257,Length Of The Longest Valid Substring,https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/
+,,
+258,Find Expression Duplicate Parenthesis Not,https://www.geeksforgeeks.org/find-expression-duplicate-parenthesis-not/
+,,
+259,Lru Cache Implementation,https://www.geeksforgeeks.org/lru-cache-implementation/
+,,
+260,Efficiently Implement K Queues Single Array,https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/
+,,
+261,Find A Tour That Visits All Stations,https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/
+,,
+262,Minimum Time Required So That All Oranges Become Rotten,https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-rotten/
+,,
+263,Sum Minimum Maximum Elements Subarrays Size K,https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/
+,,
+264,Stack Permutations Check If An Array Is Stack Permutation Of Other,https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/
+,,
+265,Count Natural Numbers Whose Permutation Greater Number,https://www.geeksforgeeks.org/count-natural-numbers-whose-permutation-greater-number/
+,,
+266,Sort A Stack Using Recursion,https://www.geeksforgeeks.org/sort-a-stack-using-recursion/
+,,
+267,Stack Set 4 Evaluation Postfix Expression,https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/
+,,
+268,Queue Based Approach For First Non Repeating Character In A Stream,https://www.geeksforgeeks.org/queue-based-approach-for-first-non-repeating-character-in-a-stream/
+,,
+9,LINKEDLIST,
+,,
+269,Given Only A Pointer To A Node To Be Deleted In A Singly Linked List How Do You Delete It,https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/
+,,
+270,Find First Non Repeating Character Stream Characters,https://www.geeksforgeeks.org/find-first-non-repeating-character-stream-characters/
+,,
+271,Nth Node From The End Of A Linked List,https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
+,,
+272,Detect And Remove Loop In A Linked List,https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/
+,,
+273,Write A Function To Get The Intersection Point Of Two Linked Lists,https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/
+,,
+274,Remove Duplicates From An Unsorted Linked List,https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/
+,,
+275,Merge Sort For Linked List,https://www.geeksforgeeks.org/merge-sort-for-linked-list/
+,,
+276,Delete Nodes Which Have A Greater Value On Right Side,https://www.geeksforgeeks.org/delete-nodes-which-have-a-greater-value-on-right-side/
+,,
+277,Segregate Even And Odd Elements In A Linked List,https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/
+,,
+278,Sum Of Two Linked Lists,https://www.geeksforgeeks.org/sum-of-two-linked-lists/
+,,
+279,Find A Triplet From Three Linked Lists With Sum Equal To A Given Number,https://www.geeksforgeeks.org/find-a-triplet-from-three-linked-lists-with-sum-equal-to-a-given-number/
+,,
+280,Flattening A Linked List,https://www.geeksforgeeks.org/flattening-a-linked-list/
+,,
+281,Sort A Linked List Of 0S 1S Or 2S,https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/
+,,
+282,Flatten A Linked List With Next And Child Pointers,https://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointers/
+,,
+283,Quicksort On Singly Linked List,https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/
+,,
+284,A Linked List With Next And Arbit Pointer,https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/
+,,
+285,Point To Next Higher Value Node In A Linked List With An Arbitrary Pointer,https://www.geeksforgeeks.org/point-to-next-higher-value-node-in-a-linked-list-with-an-arbitrary-pointer/
+,,
+286,Rearrange A Given Linked List In Place,https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/
+,,
+287,Select A Random Node From A Singly Linked List,https://www.geeksforgeeks.org/select-a-random-node-from-a-singly-linked-list/
+,,
+288,Linked List In Zig Zag Fashion,https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/
+,,
+289,Sort Linked List Already Sorted Absolute Values,https://www.geeksforgeeks.org/sort-linked-list-already-sorted-absolute-values/
+,,
+290,Merge K Sorted Linked Lists,https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/
+,,
+291,Flatten A Multi Level Linked List Set 2 Depth Wise,https://www.geeksforgeeks.org/flatten-a-multi-level-linked-list-set-2-depth-wise/
+,,
+292,Subtract Two Numbers Represented As Linked Lists,https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/
+,,
+293,Find Pair Given Sum Sorted Singly Linked Without Extra Space,https://www.geeksforgeeks.org/find-pair-given-sum-sorted-singly-linked-without-extra-space/
+,,
+294,Multiply Two Numbers Represented Linked Lists,https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/
+,,
+295,Merge Two Sorted Lists Place,https://www.geeksforgeeks.org/merge-two-sorted-lists-place/
+,,
+296,Rotate Linked List Block Wise,https://www.geeksforgeeks.org/rotate-linked-list-block-wise/
+,,
+297,Josephus Circle Using Circular Linked List,https://www.geeksforgeeks.org/josephus-circle-using-circular-linked-list/
+,,
+298,Count Triplets Sorted Doubly Linked List Whose Sum Equal Given Value X,https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/
+,,
+299,Sort Biotonic Doubly Linked List,https://www.geeksforgeeks.org/sort-biotonic-doubly-linked-list/
+,,
+10,GENERIC TREES,
+,,
+300,Check Mirror N Ary Tree,https://www.geeksforgeeks.org/check-mirror-n-ary-tree/
+,,
+301,Serialize Deserialize N Ary Tree,https://www.geeksforgeeks.org/serialize-deserialize-n-ary-tree/
+,,
+302,Immediate Smaller Element N Ary Tree,https://www.geeksforgeeks.org/immediate-smaller-element-n-ary-tree/
+,,
+303,Second Largest Element N Ary Tree,https://www.geeksforgeeks.org/second-largest-element-n-ary-tree/
+,,
+304,Node Maximum Sum Immediate Children N Ary Tree,https://www.geeksforgeeks.org/node-maximum-sum-immediate-children-n-ary-tree/
+,,
+305,Given N Ary Tree Count Number Nodes Number Children Parent,https://www.geeksforgeeks.org/given-n-ary-tree-count-number-nodes-number-children-parent/
+,,
+306,Construct Full K Ary Tree Preorder Traversal,https://www.geeksforgeeks.org/construct-full-k-ary-tree-preorder-traversal/
+,,
+307,Creating Tree Left Child Right Sibling Representation,https://www.geeksforgeeks.org/creating-tree-left-child-right-sibling-representation/
+,,
+308,Left Child Right Sibling Representation Tree,https://www.geeksforgeeks.org/left-child-right-sibling-representation-tree/
+,,
+309,Longest Path Undirected Tree,https://www.geeksforgeeks.org/longest-path-undirected-tree/
+,,
+310,Amazon Interview Question for Software Engineer in Tests,https://www.careercup.com/question?id=10508082
+,,
+311,Diameter N Ary Tree,https://www.geeksforgeeks.org/diameter-n-ary-tree/
+,,
+11,BINARY TREES,
+,,
+312,Clone Binary Tree Random Pointers,https://www.geeksforgeeks.org/clone-binary-tree-random-pointers/
+,,
+313,Count Subtress Sum Given Value X,https://www.geeksforgeeks.org/count-subtress-sum-given-value-x/
+,,
+314,Inorder Tree Traversal Without Recursion,https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/
+,,
+315,Inorder Tree Traversal Without Recursion And Without Stack,https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/
+,,
+316,Morris Traversal For Preorder,https://www.geeksforgeeks.org/morris-traversal-for-preorder/
+,,
+317,Iterative Postorder Traversal,https://www.geeksforgeeks.org/iterative-postorder-traversal/
+,,
+318,Diagonal Traversal Of Binary Tree,https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/
+,,
+319,Print Binary Tree Vertical Order,https://www.geeksforgeeks.org/print-binary-tree-vertical-order/
+,,
+320,Boundary Traversal Of Binary Tree,https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/
+,,
+321,Perfect Binary Tree Specific Level Order Traversal,https://www.geeksforgeeks.org/perfect-binary-tree-specific-level-order-traversal/
+,,
+322,Construct A Special Tree From Given Preorder Traversal,https://www.geeksforgeeks.org/construct-a-special-tree-from-given-preorder-traversal/
+,,
+323,Construct Tree From Ancestor Matrix,https://www.geeksforgeeks.org/construct-tree-from-ancestor-matrix/
+,,
+324,Construct Ancestor Matrix From A Given Binary Tree,https://www.geeksforgeeks.org/construct-ancestor-matrix-from-a-given-binary-tree/
+,,
+325,Construct A Binary Tree From Parent Array Representation,https://www.geeksforgeeks.org/construct-a-binary-tree-from-parent-array-representation/
+,,
+326,Create Doubly Linked List Ternary Ree,https://www.geeksforgeeks.org/create-doubly-linked-list-ternary-ree/
+,,
+327,In Place Convert A Given Binary Tree To Doubly Linked List,https://www.geeksforgeeks.org/in-place-convert-a-given-binary-tree-to-doubly-linked-list/
+,,
+328,Convert A Given Tree To Sum Tree,https://www.geeksforgeeks.org/convert-a-given-tree-to-sum-tree/
+,,
+329,Change A Binary Tree So That Every Node Stores Sum Of All Nodes In Left Subtree,https://www.geeksforgeeks.org/change-a-binary-tree-so-that-every-node-stores-sum-of-all-nodes-in-left-subtree/
+,,
+330,Convert A Binary Tree To A Circular Doubly Link List,https://www.geeksforgeeks.org/convert-a-binary-tree-to-a-circular-doubly-link-list/
+,,
+331,Convert Tree Forest Even Nodes,https://www.geeksforgeeks.org/convert-tree-forest-even-nodes/
+,,
+332,Lowest Common Ancestor Binary Tree Set 1,https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
+,,
+333,Find Distance Between Two Nodes Of A Binary Tree,https://www.geeksforgeeks.org/find-distance-between-two-nodes-of-a-binary-tree/
+,,
+334,Print Common Nodes Path Root Common Ancestors,https://www.geeksforgeeks.org/print-common-nodes-path-root-common-ancestors/
+,,
+335,Root To Leaf Path Sum Equal To A Given Number,https://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/
+,,
+336,Populate Inorder Successor For All Nodes,https://www.geeksforgeeks.org/populate-inorder-successor-for-all-nodes/
+,,
+337,Connect Nodes At Same Level With O1 Extra Space,https://www.geeksforgeeks.org/connect-nodes-at-same-level-with-o1-extra-space/
+,,
+338,Connect Nodes At Same Level,https://www.geeksforgeeks.org/connect-nodes-at-same-level/
+,,
+339,Foldable Binary Trees,https://www.geeksforgeeks.org/foldable-binary-trees/
+,,
+340,Maximum Width Of A Binary Tree,https://www.geeksforgeeks.org/maximum-width-of-a-binary-tree/
+,,
+341,Double Tree,https://www.geeksforgeeks.org/double-tree/
+,,
+342,Find The Maximum Sum Path In A Binary Tree,https://www.geeksforgeeks.org/find-the-maximum-sum-path-in-a-binary-tree/
+,,
+343,Vertical Sum In A Given Binary Tree,https://www.geeksforgeeks.org/vertical-sum-in-a-given-binary-tree/
+,,
+344,Find Next Right Node Of A Given Key,https://www.geeksforgeeks.org/find-next-right-node-of-a-given-key/
+,,
+345,Deepest Left Leaf Node In A Binary Tree,https://www.geeksforgeeks.org/deepest-left-leaf-node-in-a-binary-tree/
+,,
+346,Connect Leaves Doubly Linked List,https://www.geeksforgeeks.org/connect-leaves-doubly-linked-list/
+,,
+347,Print Left View Binary Tree,https://www.geeksforgeeks.org/print-left-view-binary-tree/
+,,
+348,Custom Tree Problem,https://www.geeksforgeeks.org/custom-tree-problem/
+,,
+349,Reverse Alternate Levels Binary Tree,https://www.geeksforgeeks.org/reverse-alternate-levels-binary-tree/
+,,
+350,Print Nodes Distance K Given Node Binary Tree,https://www.geeksforgeeks.org/print-nodes-distance-k-given-node-binary-tree/
+,,
+351,Find Distance Between Two Nodes Of A Binary Tree,https://www.geeksforgeeks.org/find-distance-between-two-nodes-of-a-binary-tree/
+,,
+352,Diagonal Sum Binary Tree,https://www.geeksforgeeks.org/diagonal-sum-binary-tree/
+,,
+353,Tilt Binary Tree,https://www.geeksforgeeks.org/tilt-binary-tree/
+,,
+354,Find Height Binary Tree Represented Parent Array,https://www.geeksforgeeks.org/find-height-binary-tree-represented-parent-array/
+,,
+355,Remove Nodes Root Leaf Paths Length K,https://www.geeksforgeeks.org/remove-nodes-root-leaf-paths-length-k/
+,,
+356,Find Maximum Path Sum In A Binary Tree,https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/
+,,
+357,Expression Tree,https://www.geeksforgeeks.org/expression-tree/
+,,
+358,Width Binary Tree Set 1,https://www.geeksforgeeks.org/width-binary-tree-set-1/
+,,
+359,Reverse Tree Path,https://www.geeksforgeeks.org/reverse-tree-path/
+,,
+360,Dynamic Programming Trees Set 2,https://www.geeksforgeeks.org/dynamic-programming-trees-set-2/
+,,
+361,Serialize Deserialize Binary Tree,https://www.geeksforgeeks.org/serialize-deserialize-binary-tree/
+,,
+362,Find Maximum Path Sum Two Leaves Binary Tree,https://www.geeksforgeeks.org/find-maximum-path-sum-two-leaves-binary-tree/
+,,
+363,Find Height Of A Special Binary Tree Whose Leaf Nodes Are Connected,https://www.geeksforgeeks.org/find-height-of-a-special-binary-tree-whose-leaf-nodes-are-connected/
+,,
+12,BINARY SEARCH TREES,
+,,
+364,Construct Bst From Given Preorder Traversa,https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/
+,,
+365,Binary Tree To Binary Search Tree Conversion,https://www.geeksforgeeks.org/binary-tree-to-binary-search-tree-conversion/
+,,
+366,In Place Convert Bst Into A Min Heap,https://www.geeksforgeeks.org/in-place-convert-bst-into-a-min-heap/
+,,
+367,Construct Bst Given Level Order Traversal,https://www.geeksforgeeks.org/construct-bst-given-level-order-traversal/
+,,
+368,Check For Identical Bsts Without Building The Trees,https://www.geeksforgeeks.org/check-for-identical-bsts-without-building-the-trees/
+,,
+369,Kth Largest Element In Bst When Modification To Bst Is Not Allowed,https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/
+,,
+370,Kth Smallest Element In Bst Using O1 Extra Space,https://www.geeksforgeeks.org/kth-smallest-element-in-bst-using-o1-extra-space/
+,,
+371,Check Whether Bst Contains Dead End Not,https://www.geeksforgeeks.org/check-whether-bst-contains-dead-end-not/
+,,
+372,Merge Two Balanced Binary Search Trees,https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/
+,,
+373,Fix Two Swapped Nodes Of Bst,https://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/
+,,
+374,Find If There Is A Triplet In Bst That Adds To 0,https://www.geeksforgeeks.org/find-if-there-is-a-triplet-in-bst-that-adds-to-0/
+,,
+375,Find A Pair With Given Sum In Bst,https://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/
+,,
+376,Remove Bst Keys Outside The Given Range,https://www.geeksforgeeks.org/remove-bst-keys-outside-the-given-range/
+,,
+377,Add Greater Values Every Node Given Bst,https://www.geeksforgeeks.org/add-greater-values-every-node-given-bst/
+,,
+378,Inorder Predecessor Successor Given Key Bst,https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/
+,,
+379,Given N Appointments Find Conflicting Appointments,https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/
+,,
+380,Data Structure For Future Reservations For A Single Resource,https://www.geeksforgeeks.org/data-structure-for-future-reservations-for-a-single-resource/
+,,
+381,Count Bst Subtrees That Lie In Given Range,https://www.geeksforgeeks.org/count-bst-subtrees-that-lie-in-given-range/
+,,
+382,Replace Every Element With The Least Greater Element On Its Right,https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/
+,,
+383,Find Closest Element Binary Search Tree,https://www.geeksforgeeks.org/find-closest-element-binary-search-tree/
+,,
+384,Sum K Smallest Elements Bst,https://www.geeksforgeeks.org/sum-k-smallest-elements-bst/
+,,
+385,Maximum Element Two Nodes Bst,https://www.geeksforgeeks.org/maximum-element-two-nodes-bst/
+,,
+386,Binary Search Tree Insert Parent Pointer,https://www.geeksforgeeks.org/binary-search-tree-insert-parent-pointer/
+,,
+387,Largest Bst Binary Tree Set 2,https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/
+,,
+388,Leaf Nodes Preorder Binary Search Tree,https://www.geeksforgeeks.org/leaf-nodes-preorder-binary-search-tree/
+,,
+389,Find Median Bst Time O1 Space,https://www.geeksforgeeks.org/find-median-bst-time-o1-space/
+,,
+390,Avl Tree Set 1 Insertion,https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
+,,
+391,Avl Tree Set 2 Deletion,https://www.geeksforgeeks.org/avl-tree-set-2-deletion/
+,,
+13,ORDER STATISTICS & HEAP & HASH,
+,,
+392,K Largest(or Smallest) Elements In An Array | Added Min Heap Method,https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/
+,,
+393,Next Greater Element,https://www.geeksforgeeks.org/next-greater-element/
+,,
+394,Kth Smallest/Largest Element In Unsorted Array,https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/
+,,
+395,Sliding Window Maximum (Maximum Of All Subarrays Of Size K),https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/
+,,
+396,Find The Smallest Positive Number Missing From An Unsorted Array,https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/
+,,
+397,Find The Maximum Repeating Number in O(n) Time And O(1) Extra Space,https://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/
+,,
+398,Online Algorithm For Checking Palindrome In A Stream,https://www.geeksforgeeks.org/online-algorithm-for-checking-palindrome-in-a-stream/
+,,
+399,Kth Largest Element In A Stream,https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/
+,,
+400,K-th Smallest Element After Removing Some Integers From Natural Numbers,https://www.geeksforgeeks.org/k-th-smallest-element-removing-integers-natural-numbers/
+,,
+401,Find Surpasser Count Of Each Element In Array,https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/
+,,
+402,A Pancake Sorting Question,https://www.geeksforgeeks.org/a-pancake-sorting-question/
+,,
+403,Choose k Array Elements Such That Difference Of Maximum And Minimum Is Minimized,https://www.geeksforgeeks.org/k-numbers-difference-maximum-minimum-k-number-minimized/
+,,
+404,Find k Closest Elements To A Given Value,https://www.geeksforgeeks.org/find-k-closest-elements-given-value/
+,,
+405,Tournament Tree And Binary Heap,https://www.geeksforgeeks.org/tournament-tree-and-binary-heap/
+,,
+406,Connect N Ropes with Minimum Cost,https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/
+,,
+407,Design An Efficient Data Structure For Given Operations,https://www.geeksforgeeks.org/a-data-structure-question/
+,,
+408,Cuckoo Hashing – Worst Case O(1) Lookup!,https://www.geeksforgeeks.org/cuckoo-hashing/
+,,
+409,Find Number Of Employees Under Every Manager,https://www.geeksforgeeks.org/find-number-of-employees-under-every-manager/
+,,
+410,Find Itinerary From A Given List Of Tickets,https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/
+,,
+411,Check If An Array Can Be Divided Into Pairs Whose Sum Is Divisible By K,https://www.geeksforgeeks.org/check-if-an-array-can-be-divided-into-pairs-whose-sum-is-divisible-by-k/
+,,
+412,Find The Length Of Largest Subarray With 0 Sum,https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
+,,
+413,Count Distinct Elements In Every Window Of Size K,https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
+,,
+414,"Design A Data Structure That Supports Insert, Delete, Search And GetRandom In Constant Time",https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/
+,,
+415,Length of The Largest Subarray With Contiguous Elements,https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-2/
+,,
+416,Group Shifted String,https://www.geeksforgeeks.org/group-shifted-string/
+,,
+417,Palindrome Substring Queries,https://www.geeksforgeeks.org/palindrome-substring-queries/
+,,
+418,"Find Four Elements A, B, C and D in an array such that A+B = C+D",https://www.geeksforgeeks.org/find-four-elements-a-b-c-and-d-in-an-array-such-that-ab-cd/
+,,
+419,Subarrays With Distinct Elements,https://www.geeksforgeeks.org/subarrays-distinct-elements/
+,,
+420,Find Recurring Sequence In A Fraction,https://www.geeksforgeeks.org/find-recurring-sequence-fraction/
+,,
+421,K Maximum Sum Combinations From Two Arrays,https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/
+,,
+14,GRAPHS,
+,,
+422,Roads and Libraries,https://www.hackerrank.com/challenges/torque-and-development/problem
+,,
+423,Journey to the Moon,https://www.hackerrank.com/challenges/journey-to-the-moon/problem
+,,
+424,Even Tree,https://www.hackerrank.com/challenges/even-tree/problem
+,,
+425,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/description/
+,,
+426,Mancunian And Liverbird Go Bar Hopping,https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/mancunian-and-liverbird-go-bar-hopping-2/
+,,
+427,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
+,,
+428,Dhoom 4,https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/dhoom-4/
+,,
+429,Monk And The Islands,https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/
+,,
+430,Connected Horses,https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/connected-horses-10/
+,,
+431,We Are On Fire,https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/we-are-on-fire/
+,,
+432,Mrinal And Three Musketeers,https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/mrinal-and-three-musketeers-128f4c52/
+,,
+433,Efficient Network,https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/efficient-network/
+,,
+434,Mr President,https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/mr-president/
+,,
+435,Chocolate Journey,https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/successful-marathon-0691ec04/
+,,
+436,Minimizing Path Cost,https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/minimizing-path-cost/
+,,
+437,Oliver And The Game,https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/
+,,
+438,Madmax,http://codeforces.com/problemset/problem/917/B
+,,
+439,Friend Circles Problem,https://www.ideserve.co.in/learn/friend-circles-graph
+,,
+440,Strongly Connected Components,https://www.geeksforgeeks.org/strongly-connected-components/
+,,
+441,Minimum Number Of Trials To Reach From Source Word To Destination Word,https://www.ideserve.co.in/learn/minimum-trials-to-reach-from-source-to-destination-word
+,,
+442,Longest Path in a Directed Acyclic Graph,https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/
+,,
+443,Find A Mother Vertex In A Graph,https://www.geeksforgeeks.org/find-a-mother-vertex-in-a-graph/
+,,
+444,Count All Possible Paths Between Two Vertices,https://www.geeksforgeeks.org/count-possible-paths-two-vertices/
+,,
+445,Water Jug Problem Using Bfs,https://www.geeksforgeeks.org/water-jug-problem-using-bfs/
+,,
+446,Detect Cycle In An Undirected Graph,https://www.geeksforgeeks.org/detect-cycle-undirected-graph/
+,,
+447,Detect Cycle in a Directed Graph,https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
+,,
+448,Snake and Ladder Problem,https://www.geeksforgeeks.org/snake-ladder-problem-2/
+,,
+449,"Given A Sorted Dictionary Of An Alien Language, Find Order Of Characters",https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/
+,,
+450,Print All Jumping Numbers Smaller Than Or Equal To A Given Value,https://www.geeksforgeeks.org/print-all-jumping-numbers-smaller-than-or-equal-to-a-given-value/
+,,
+451,Optimal Read List Given Number Days,https://www.geeksforgeeks.org/optimal-read-list-given-number-days/
+,,
+452,Count Number Of Trees In A Forest,https://www.geeksforgeeks.org/count-number-trees-forest/
+,,
+453,Construct Binary Palindrome By Repeated Appending And Trimming,https://www.geeksforgeeks.org/construct-binary-palindrome-by-repeated-appending-and-trimming/
+,,
+454,Find Eventual Safe States,https://leetcode.com/problems/find-eventual-safe-states/description/
+,,
+455,Madmax,http://codeforces.com/problemset/problem/917/B
+,,
+456,Equal,https://www.hackerrank.com/challenges/equal/problem
+,,
+457,Even Tree,https://www.hackerrank.com/challenges/even-tree/problem
+,,
+15,BIT MANIPULATION,
+,,
+458,Find the two non-repeating elements in an array of repeating elements,https://www.geeksforgeeks.org/find-two-non-repeating-elements-in-an-array-of-repeating-elements/
+,,
+459,Count set bits in an integer,https://www.geeksforgeeks.org/count-set-bits-in-an-integer/
+,,
+460,Find the Number Occurring Odd Number of Times,https://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/
+,,
+461,Check if a number is Bleak,https://www.geeksforgeeks.org/check-if-a-number-is-bleak/
+,,
+462,Copy set bits in a range,https://www.geeksforgeeks.org/copy-set-bits-in-a-range/
+,,
+463,Write an Efficient Method to Check if a Number is Multiple of 3,https://www.geeksforgeeks.org/write-an-efficient-method-to-check-if-a-number-is-multiple-of-3/
+,,
+464,Find position of the only set bit,https://www.geeksforgeeks.org/find-position-of-the-only-set-bit/
+,,
+465,Binary representation of a given number,https://www.geeksforgeeks.org/binary-representation-of-a-given-number/
+,,
+466,Write an Efficient C Program to Reverse Bits of a Number,https://www.geeksforgeeks.org/write-an-efficient-c-program-to-reverse-bits-of-a-number/
+,,
+467,Count number of bits to be flipped to convert A to B,https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/
+,,
+468,Count total set bits in all numbers from 1 to n,https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/
+,,
+469,Swap two nibbles in a byte,https://www.geeksforgeeks.org/swap-two-nibbles-byte/
+,,
+470,Find the element that appears once,https://www.geeksforgeeks.org/find-the-element-that-appears-once/
+,,
+471,Program to find whether a no is power of two,https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/
+,,
+472,Sum of bit differences among all pairs,https://www.geeksforgeeks.org/sum-of-bit-differences-among-all-pairs/
+,,
+473,Generate n-bit Gray Codes,https://www.geeksforgeeks.org/given-a-number-n-generate-bit-patterns-from-0-to-2n-1-so-that-successive-patterns-differ-by-one-bit/
+,,
+474,Josephus problem,https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/
+,,
+475,A Boolean Array Puzzle,https://www.geeksforgeeks.org/a-boolean-array-puzzle/
+,,
+476,Swap all odd and even bits,https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/
+,,
+477,Calculate 7n/8 without using division and multiplication operators,https://www.geeksforgeeks.org/calculate-7n8-without-using-division-and-multiplication-operators/
+,,
+16,MATHS,
+,,
+478,Euclidean algorithms (Basic and Extended),https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/
+,,
+479,Prime Factorization using Sieve O(log n) for multiple queries,https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/
+,,
+480,Fermat’s Last Theorem,https://www.geeksforgeeks.org/fermats-last-theorem/
+,,
+481,Matrix Exponentiation,https://www.geeksforgeeks.org/matrix-exponentiation/
+,,
+482,Chinese Remainder Theorem,https://www.geeksforgeeks.org/chinese-remainder-theorem-set-1-introduction/
+,,
+483,Birthday Paradox,https://www.geeksforgeeks.org/birthday-paradox/
+,,
+484,Program for nth Catalan Number,https://www.geeksforgeeks.org/program-nth-catalan-number/
+,,
+485,Pollard’s Rho Algorithm for Prime Factorization,https://www.geeksforgeeks.org/pollards-rho-algorithm-prime-factorization/
+,,
+486,Euler’s Totient Function,https://www.geeksforgeeks.org/eulers-totient-function/
+,,
+487,Sieve of Eratosthenes in 0(n) time complexity,https://www.geeksforgeeks.org/sieve-eratosthenes-0n-time-complexity/
+,,
+17,GEOMETRY,
+,,
+488,Orientation of 3 ordered points,https://www.geeksforgeeks.org/orientation-3-ordered-points/
+,,
+489,How to check if two given line segments intersect?,https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
+,,
+490,Convex Hull | Set 1 (Jarvis’s Algorithm or Wrapping),https://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/
+,,
+491,Find Simple Closed Path for a given set of points,https://www.geeksforgeeks.org/find-simple-closed-path-for-a-given-set-of-points/
+,,
+492,Convex Hull | Set 2 (Graham Scan),https://www.geeksforgeeks.org/convex-hull-set-2-graham-scan/
+,,
+493,Quickhull Algorithm for Convex Hull,https://www.geeksforgeeks.org/quickhull-algorithm-convex-hull/
+,,
+494,Closest Pair of Points | O(nlogn) Implementation,https://www.geeksforgeeks.org/closest-pair-of-points-onlogn-implementation/
+,,
+495,The Skyline Problem using Divide and Conquer algorithm,https://www.geeksforgeeks.org/divide-and-conquer-set-7-the-skyline-problem/
+,,
+496,"Given n line segments, find if any two segments intersect",https://www.geeksforgeeks.org/given-a-set-of-line-segments-find-if-any-two-segments-intersect/
+,,
+497,Line Sweep Technique,https://www.hackerearth.com/practice/math/geometry/line-sweep-technique/tutorial/
+,,
+498,Line Intersection using Bentley Ottmann Algorithm,https://www.hackerearth.com/practice/math/geometry/line-intersection-using-bentley-ottmann-algorithm/tutorial/
+,,
+499,Points Inside A Polygon,https://www.codechef.com/FEB18/problems/POINPOLY
+,,
+18,TRIE,
+,,
+500,Sorting array of strings (or words) using Trie | Set-2 (Handling Duplicates),https://www.geeksforgeeks.org/sorting-array-strings-words-using-trie-set-2-handling-duplicates/
+,,
+501,Word Break Problem,https://www.geeksforgeeks.org/word-break-problem-trie-solution/
+,,
+502,"Given a sequence of words, print all anagrams together",https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together-set-2/
+,,
+503,Implement a Phone Directory,https://www.geeksforgeeks.org/implement-a-phone-directory/
+,,
+504,Print all words matching a pattern in CamelCase Notation Dictonary,https://www.geeksforgeeks.org/print-words-matching-pattern-camelcase-notation-dictonary/
+,,
+505,Print unique rows in a given boolean matrix,https://www.geeksforgeeks.org/print-unique-rows/
+,,
+19,UNION FIND,
+,,
+506,Count of distinct substrings of a string using Suffix Trie,https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-trie/
+,,
+507,Union Find,https://www.geeksforgeeks.org/tag/union-find/
+,,
+508,Disjoint Set (Or Union-Find) | Set 1 (Detect Cycle in an Undirected Graph),https://www.geeksforgeeks.org/union-find/
